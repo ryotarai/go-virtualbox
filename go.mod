@@ -1,4 +1,4 @@
-module github.com/terra-farm/go-virtualbox
+module github.com/ryotarai/go-virtualbox
 
 go 1.12
 
